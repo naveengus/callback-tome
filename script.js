@@ -36,7 +36,7 @@ setTimeout(() => {
                       setTimeout(() => {
                         h1.innerHTML = "";
                         h1.innerHTML = "I Love You soo much! ";
-                      }, 1000);
+                      }, 2000);
                     }, 1000);
                   }, 1000);
                 }, 1000);
@@ -46,7 +46,7 @@ setTimeout(() => {
         }, 2000);
       }, 2000);
     }, 2000);
-  }, 2000);
+  }, 1000);
 }, 1000);
 
 node.appendChild(h1);
